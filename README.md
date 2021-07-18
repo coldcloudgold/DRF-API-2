@@ -32,7 +32,7 @@
 
 ### Валидация элемента заданного справочника по указанной версии:
 
-![alt](https://github.com/coldcloudgold/illustration/blob/main/Project/DRF_API/Komtek_itemhandbookvalidator_many.gif)
+![alt](https://github.com/coldcloudgold/illustration/blob/main/Project/DRF_API/Komtek_itemhandbookvalidator_one.gif)
 
 ## Административное управление сервисом:
 
@@ -144,11 +144,7 @@
     {
         "code": "Test item 1",
         "value": "1"
-    },
-    {
-        "code": "Test item 2",
-        "value": "2"
-    },
+    }
 ]
 ```
 
