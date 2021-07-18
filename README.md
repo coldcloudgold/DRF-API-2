@@ -139,7 +139,7 @@
 [
     {
         "global_id": 1,
-        "version" "0.0.1"
+        "version": "0.0.1"
     },
     {
         "code": "Test item 1",
