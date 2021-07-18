@@ -1,0 +1,206 @@
+[
+    {
+        "model": "REST_API_app.handbook",
+        "pk": 1,
+        "fields": {
+            "global_id": 1,
+            "name": "Справочник v1",
+            "short_name": "v1",
+            "description": "Информация о справочнике",
+            "version": "0.0.1",
+            "validity_date": "2021-07-08"
+        }
+    },
+    {
+        "model": "REST_API_app.handbook",
+        "pk": 2,
+        "fields": {
+            "global_id": 1,
+            "name": "Справочник v1.1",
+            "short_name": "v1.1",
+            "description": "Информация о справочнике",
+            "version": "0.0.1.1",
+            "validity_date": "2021-07-09"
+        }
+    },
+    {
+        "model": "REST_API_app.handbook",
+        "pk": 3,
+        "fields": {
+            "global_id": 1,
+            "name": "Справочник v1.2",
+            "short_name": "v1.2",
+            "description": "Информация о справочнике",
+            "version": "0.0.1.2",
+            "validity_date": "2021-07-10"
+        }
+    },
+    {
+        "model": "REST_API_app.handbook",
+        "pk": 4,
+        "fields": {
+            "global_id": 2,
+            "name": "Справочник v1",
+            "short_name": "v1.1",
+            "description": "Информация о справочнике",
+            "version": "0.0.1",
+            "validity_date": "2021-07-08"
+        }
+    },
+    {
+        "model": "REST_API_app.handbook",
+        "pk": 5,
+        "fields": {
+            "global_id": 2,
+            "name": "Справочник v1.1",
+            "short_name": "v1.1",
+            "description": "Информация о справочнике",
+            "version": "0.0.1.1",
+            "validity_date": "2021-07-09"
+        }
+    },
+    {
+        "model": "REST_API_app.handbook",
+        "pk": 6,
+        "fields": {
+            "global_id": 3,
+            "name": "Справочник v1",
+            "short_name": "v1",
+            "description": "Информация о справочнике",
+            "version": "0.0.1",
+            "validity_date": "2021-07-08"
+        }
+    },
+    {
+        "model": "REST_API_app.handbook",
+        "pk": 7,
+        "fields": {
+            "global_id": 3,
+            "name": "Справочник v1.1",
+            "short_name": "v1.1",
+            "description": "Информация о справочнике",
+            "version": "0.0.1.1",
+            "validity_date": "2021-07-09"
+        }
+    },
+    {
+        "model": "REST_API_app.handbook",
+        "pk": 8,
+        "fields": {
+            "global_id": 4,
+            "name": "Справочник v1",
+            "short_name": "v1",
+            "description": "Информация о справочнике",
+            "version": "0.0.1",
+            "validity_date": "2021-07-08"
+        }
+    },
+    {
+        "model": "REST_API_app.itemhandbook",
+        "pk": 1,
+        "fields": {
+            "handbook": 1,
+            "code": "1",
+            "value": "1"
+        }
+    },
+    {
+        "model": "REST_API_app.itemhandbook",
+        "pk": 2,
+        "fields": {
+            "handbook": 2,
+            "code": "2",
+            "value": "2"
+        }
+    },
+    {
+        "model": "REST_API_app.itemhandbook",
+        "pk": 3,
+        "fields": {
+            "handbook": 3,
+            "code": "3",
+            "value": "3"
+        }
+    },
+    {
+        "model": "REST_API_app.itemhandbook",
+        "pk": 4,
+        "fields": {
+            "handbook": 3,
+            "code": "4",
+            "value": "4"
+        }
+    },
+    {
+        "model": "REST_API_app.itemhandbook",
+        "pk": 5,
+        "fields": {
+            "handbook": 4,
+            "code": "5",
+            "value": "5"
+        }
+    },
+    {
+        "model": "REST_API_app.itemhandbook",
+        "pk": 6,
+        "fields": {
+            "handbook": 5,
+            "code": "6",
+            "value": "6"
+        }
+    },
+    {
+        "model": "REST_API_app.itemhandbook",
+        "pk": 7,
+        "fields": {
+            "handbook": 6,
+            "code": "7",
+            "value": "7"
+        }
+    },
+    {
+        "model": "REST_API_app.itemhandbook",
+        "pk": 8,
+        "fields": {
+            "handbook": 7,
+            "code": "8",
+            "value": "8"
+        }
+    },
+    {
+        "model": "REST_API_app.itemhandbook",
+        "pk": 9,
+        "fields": {
+            "handbook": 8,
+            "code": "9",
+            "value": "9"
+        }
+    },
+    {
+        "model": "REST_API_app.itemhandbook",
+        "pk": 10,
+        "fields": {
+            "handbook": 8,
+            "code": "10",
+            "value": "10"
+        }
+    },
+    {
+        "model": "REST_API_app.itemhandbook",
+        "pk": 11,
+        "fields": {
+            "handbook": 8,
+            "code": "11",
+            "value": "11"
+        }
+    },
+    {
+        "model": "REST_API_app.itemhandbook",
+        "pk": 12,
+        "fields": {
+            "handbook": 8,
+            "code": "12",
+            "value": "12"
+        }
+    }
+]
