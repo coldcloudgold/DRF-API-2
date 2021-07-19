@@ -36,3 +36,5 @@ class ItemHandbookValidator(ItemHandbookValidatorLogic, APIView):
     Возможности:
     - Валидация элементов заданного справочника текущей версии;
     - Валидация элемента заданного справочника по указанной версии."""
+
+    pass
